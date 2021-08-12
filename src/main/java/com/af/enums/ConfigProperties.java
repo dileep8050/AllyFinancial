@@ -1,0 +1,9 @@
+package com.af.enums;
+
+public enum ConfigProperties {
+	URL,
+	BROWSER,
+	PASSEDSTEPSSCREENSHOT,
+	FAILEDSTEPSSCREENSHOT,
+	RETRYFAILEDTESTS;
+}
